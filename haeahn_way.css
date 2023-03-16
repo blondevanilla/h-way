@@ -1,0 +1,31 @@
+.waytitle {
+    display: flex;
+    align-items: center;
+}
+.waytitle-number-box{
+    width: 46px;
+    height: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #17428C;
+    margin-right: 12px;
+}
+.waytitle-number {
+    font-size: 28px;
+    font-weight: 800; 
+    color: white;
+    margin: 0;
+}
+.waytitle-ko {
+    font-size: 20px;
+    color: #17428C;
+    margin: 0;
+}
+
+.waytitle-en {
+    font-size: 14px;
+    font-weight: 400;
+    color: #ADAEB1;
+    margin: 0;
+}
